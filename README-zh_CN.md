@@ -1,4 +1,4 @@
-# 如何打包 JavaScript 库的现代化指南
+# 打包 JavaScript 库的现代化指南
 
 ## 简介
 
